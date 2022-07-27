@@ -29,7 +29,7 @@ https://github.com/sashaRSD/Game-snake/blob/main/Screenshot/1.jpg?raw=true
 ###Game
 
 ![alt text](
-https://i.ibb.co/jfbpQdq/2.jpg
+https://github.com/sashaRSD/Game-snake/blob/main/Screenshot/2.jpg?raw=true
 "Game")
 
 
@@ -40,7 +40,7 @@ https://i.ibb.co/jfbpQdq/2.jpg
 ###End of the game
 
 ![alt text](
-https://i.ibb.co/9yhW1gy/3.jpg
+https://github.com/sashaRSD/Game-snake/blob/main/Screenshot/3.jpg?raw=true
 "Game")
 
 
